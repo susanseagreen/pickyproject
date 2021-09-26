@@ -30,11 +30,11 @@ python manage.py runserver
 3. Open "http://127.0.0.1:8000"
 
 4. Menu option:
-###Create CSV from file and displays as JSON:
+##### Create CSV from file and displays as JSON:
 "download/csv": "http://127.0.0.1:8000/download/csv/" 
-###Create JSON from file and displays as JSON:
+##### Create JSON from file and displays as JSON:
 "download/json": "http://127.0.0.1:8000/download/json/",
-###View as JSON from file with not file created:
+##### View as JSON from file with not file created:
 "view/json": "http://127.0.0.1:8000/view/json/"
 
 5. Click option and upload file
